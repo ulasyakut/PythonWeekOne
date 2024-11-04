@@ -3,6 +3,8 @@
 
 the basis is [ThinkPython 3rd Edition](https://allendowney.github.io/ThinkPython/)
 
+We need to work out how these get submitted, maybe the right way is via Github Gists
+
 ```python
 % python3
 Python 3.13.0 (main, Oct  7 2024, 05:02:14) [Clang 16.0.0 (clang-1600.0.26.3)] on darwin
